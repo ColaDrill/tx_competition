@@ -1,5 +1,5 @@
 # tc_comptition
-2018腾讯广告大赛baseline 线上得分0.73 （原作者：BRYAN）
+2018腾讯广告大赛baseline 线上得分0.73 （原作者：BRYAN https://blog.csdn.net/bryan__/article/details/79623239）
 
 
 - 1.首先处理4个G的用户特征
@@ -20,4 +20,4 @@
 - 2018年随机结果可提交的代码tc_2018_random
 - 2017年上届比赛全国第14的代码tc_2017_NO.14（https://github.com/freelzy/Tencent_Social_Ads）
 
-PS：不定期收集和整理，欢迎原作者私聊附上名字，右上角随手点个star，Thanks！
+不定期收集和整理...

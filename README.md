@@ -1,5 +1,5 @@
 # tc_comptition
-2018腾讯广告大赛baseline 线上得分0.73
+2018腾讯广告大赛baseline 线上得分0.73 （作者：BRYAN）
 
 
 - 1.首先处理4个G的用户特征

@@ -16,8 +16,8 @@
 
 
 另附:
-- 2018年数据切分和合并的代码tc_2018_cut&merge （原作者：a8262589）
+- 2018年数据切分和合并的代码tc_2018_cut&merge （https://github.com/a8262589/2018spa）
 - 2018年随机结果可提交的代码tc_2018_random
-- 2017年上届比赛全国第14的代码tc_2017_NO.14
+- 2017年上届比赛全国第14的代码tc_2017_NO.14（https://github.com/freelzy/Tencent_Social_Ads）
 
 PS：不定期收集和整理，欢迎原作者私聊附上名字，右上角随手点个star，Thanks！

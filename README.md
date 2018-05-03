@@ -20,4 +20,6 @@
 - 2018年随机结果可提交的代码tc_2018_random
 - 2017年上届比赛全国第14的代码tc_2017_NO.14（https://github.com/freelzy/Tencent_Social_Ads）
 
+此外,分享一个做ctr问题的框架，包含了FNN、PNN、DEEPFM、NFM等模型（https://github.com/nzc/dnn_ctr）
+
 不定期收集和整理...

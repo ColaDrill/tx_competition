@@ -1,4 +1,4 @@
-# tc_comptition
+# tc_competition
 
 ## 名次决赛前百，初赛用LGB，决赛用LGB和FFM融合
 - 决赛数据集相当大，光是用户特征就千万行的级别，也是头一次遇到这么大数据集的比赛
